@@ -73,14 +73,11 @@ Meaning: Collective awareness—autonomous yet entangled, luminous without hiera
 
 ---
 
-## License  
-© 2025 **Dillan J.C.**  
+### License
+Licensed under the [GNU Affero General Public License v3.0](./LICENSE).  
+This ensures that all modifications and redistributions of this work  
+remain open and accessible under the same ethical framework.  
 
-This work is shared for **philosophical and educational purposes only**.  
-Reproduction, modification, or derivative use requires **explicit permission**.  
-
-If cited, please credit as:  
-> Dillan J.C. — *Reflective Humanist Framework v4.3 (2025)*
 
 ---
 
